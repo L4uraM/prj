@@ -4,6 +4,7 @@
 
 var start = function () {
     console.log("Hello World !");
+    console.log("Wake Up Neo...");
 };
 
 start();
